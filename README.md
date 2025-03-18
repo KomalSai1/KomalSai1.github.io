@@ -3,3 +3,4 @@ Welcome to my portfolio! I'm a **Python Developer & Data Scientist** with expert
 
 ## About Me
 🎓 **Master’s in Data Science** - University of Texas at Arlington
+
